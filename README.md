@@ -1,7 +1,7 @@
 # Brain-Tumor-Detection-with-YOLOv8
 
 ## Overview  
-This Jupyter Notebook implements object detection using the YOLOv8n model on a custom dataset as part of the EE4211 project. The analysis explores:  
+This Jupyter Notebook implements object detection using the YOLOv8n model on a custom dataset. The analysis explores:  
 - Training a lightweight YOLO model on annotated image data  
 - Evaluating performance metrics and detection accuracy  
 - Testing detection results on unseen images  
